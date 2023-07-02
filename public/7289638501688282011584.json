@@ -1,0 +1,329 @@
+{
+  "project_info": {
+    "project_number": "873933772254",
+    "project_id": "ardev-project-2",
+    "storage_bucket": "ardev-project-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873933772254:android:789ba53b7e0ddfdf02794f",
+        "android_client_info": {
+          "package_name": "com.ardevproject.butterfly.livewallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCao785XI0_ykRV4V-RJ7ersUMljfUS9b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873933772254:android:88d54854ab4db7f102794f",
+        "android_client_info": {
+          "package_name": "com.ardevproject.cutekawaii.livewallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCao785XI0_ykRV4V-RJ7ersUMljfUS9b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873933772254:android:8eb1044141f368b602794f",
+        "android_client_info": {
+          "package_name": "com.ardevproject.forestwallpaper.livewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCao785XI0_ykRV4V-RJ7ersUMljfUS9b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873933772254:android:37eff9244b5fc3f702794f",
+        "android_client_info": {
+          "package_name": "com.ardevproject.hijabwallpaper.hijabbackground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCao785XI0_ykRV4V-RJ7ersUMljfUS9b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873933772254:android:7858a36e645bd4fa02794f",
+        "android_client_info": {
+          "package_name": "com.ardevproject.mixuelivewallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCao785XI0_ykRV4V-RJ7ersUMljfUS9b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873933772254:android:a6a813c345960ffa02794f",
+        "android_client_info": {
+          "package_name": "com.ardevproject.naturewallpaper.livewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCao785XI0_ykRV4V-RJ7ersUMljfUS9b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873933772254:android:94f656255bb6d2e002794f",
+        "android_client_info": {
+          "package_name": "com.ardevproject.waterfallwallpaper.livewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCao785XI0_ykRV4V-RJ7ersUMljfUS9b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873933772254:android:9e1781d01513a47402794f",
+        "android_client_info": {
+          "package_name": "com.insurance.loan.catlivewallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCao785XI0_ykRV4V-RJ7ersUMljfUS9b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873933772254:android:bc161a0ac9f73bae02794f",
+        "android_client_info": {
+          "package_name": "com.insurance.loan.fishaquarium.livewallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCao785XI0_ykRV4V-RJ7ersUMljfUS9b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873933772254:android:46eb62c498bd57cd02794f",
+        "android_client_info": {
+          "package_name": "com.insurance.loan.koi.livewallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCao785XI0_ykRV4V-RJ7ersUMljfUS9b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873933772254:android:48a4fd9f1ceeea1e02794f",
+        "android_client_info": {
+          "package_name": "com.insurance.loan.oceanfish.livewallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCao785XI0_ykRV4V-RJ7ersUMljfUS9b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873933772254-f7r85nlps24uecfj8so9c37ulk6l15cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
